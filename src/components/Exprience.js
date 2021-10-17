@@ -15,7 +15,7 @@ function Exprience(){
             <div className="projects-header2">Experience</div>
             < div className ="container">
             <div className="flex-container">
-            <div className="grid">
+
         <div className="exp" id="thomson">
           <img src= {TR} className = "img" />
           <div className="text">
@@ -38,7 +38,7 @@ function Exprience(){
             </p>
           </div>
         </div>
-        </div>
+
         <div className="exp" id="manulife">
           <img src= {Manulife} className = "img" />
           <div className="text">
