@@ -36,10 +36,9 @@ function About() {
           <div className="subtext">
             <strong>
                 I'm a second year Management Engineering student at the University of Waterloo. 
-                I will be joining Shinydocs for the Winter 2021 as a Software Developer. 
-                For my past Internship I worked as a Software Solutions Architect with Thomson Reuters.
+                For my past Internships I worked as Software Developer at Shinydocs and as a Software Solutions Architect at Thomson Reuters.
                 I have a passion for Software Development, Product &amp; Project Management.
-                I am always looking for new opputunities to expand my skills so feel freee to reach out.
+                I am always looking for new opputunities to expand my skills so feel free to reach out.
             </strong>
 
             <Row className="row-icons">
@@ -57,7 +56,7 @@ function About() {
                 </a>
               </Col>
               <Col>
-                <a href="https://drive.google.com/file/d/1S0oilKXblE_0hG8KDI0-ioNVkAPgZQcS/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1QeLJpPgT5Jp9C2jFZmdtSSxTh0S-AW2o/view?usp=sharing" target="_blank">
                   <Image className="icon contact-icon" src={Resume}></Image>
                 </a>
               </Col>

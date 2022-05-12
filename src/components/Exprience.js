@@ -5,6 +5,7 @@ import { Card, Button, Container, Row, Col, Image } from "react-bootstrap";
 import TR from "../images/TR-logo.png";
 import Manulife from "../images/manulife.png"
 import Tutor from "../images/Tutor.jpg"
+import Shinydocs from "../images/--_W4aPN_400x400.jpg"
 // import "../styles/Projects.css";
 import "../styles/Home.css";
 import "../styles/Exprience.css"
@@ -15,6 +16,28 @@ function Exprience(){
             <div className="projects-header2">Experience</div>
             < div className ="container">
             <div className="flex-container">
+
+        <div className="exp" id="thomson">
+          <img src= {Shinydocs} className = "img" />
+          <div className="text">
+            <h3><b>Software Developer</b></h3>
+            <h4>
+              Shinydocs <br /><span 
+                >January 2022 - April 2022</span
+              >
+            </h4>
+            <p>
+              <ul>
+                
+                <li>Improved process and efficiency by automating 100% of the testing process using
+                <strong> C#, .Net, Nunit, Rest, and Soap Services</strong> for several lab instances 
+                by dynamically creating, updating, and deleting test data</li>
+                <li>Developed code to test and debug new and existing features to reduce bugs at release</li>
+                <li>Gained familiarity and implemented software design patterns such as Factory Method and Lazy initialization as well as OOP Concepts</li>
+              </ul>
+            </p>
+          </div>
+        </div>
 
         <div className="exp" id="thomson">
           <img src= {TR} className = "img" />
