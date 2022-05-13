@@ -56,7 +56,7 @@ function About() {
                 </a>
               </Col>
               <Col>
-                <a href="https://drive.google.com/file/d/1QeLJpPgT5Jp9C2jFZmdtSSxTh0S-AW2o/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1LPPBfKAS4qvrZ8XzmLiquyT4cQpO0Iwx/view?usp=sharing" target="_blank">
                   <Image className="icon contact-icon" src={Resume}></Image>
                 </a>
               </Col>
