@@ -8,6 +8,7 @@ import WCO from "../images/weeklycourseorganizer.png";
 import tr from "../images/TR1.JPG";
 import DT from "../images/DecisionSupport.png";
 import UM from "../images/UserManagement.png";
+import MR from "../images/MoviewReviewHome.png";
 
 function Projects() {
   return (
@@ -25,10 +26,28 @@ function Projects() {
                   <b>User Management App</b> for <b>TMMC</b>
                 </i>{" "}
                 - Developed a web-based User Management application for various
-                internal applications using <b>Angular</b>, <b> .Net6 MVC,</b> and <b>Oracle</b>.
-                Implemented the front-end user interface using <b>Angular</b>, and
-                developed the backend logic and database interactions using
+                internal applications using <b>Angular</b>, <b> .Net6 MVC,</b>{" "}
+                and <b>Oracle</b>. Implemented the front-end user interface
+                using <b>Angular</b>, and developed the backend logic and
+                database interactions using
                 <b> .Net6 MVC,</b> and <b>Oracle</b>.{" "}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="grid">
+          <div className="quicktab">
+            <a href="https://github.com/Adelpzk/Movie-Review">
+              <Image src={MR} className="img-quicktab"></Image>
+            </a>
+            <div className="overlay-quicktab">
+              <div className="text">
+                <i>
+                  <b>Movie Review Website School Project</b>
+                </i>{" "}
+                - Designed and developed a <b>ReactJS, NodeJS, MySQL</b>
+                web-application augmenting IMDBs Database, where users can
+                submit reviews, search for reviews, and play a small game.{" "}
               </div>
             </div>
           </div>
