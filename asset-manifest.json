@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e687988.css",
+    "main.js": "/static/js/main.ae2e07d7.js",
+    "static/js/787.fec03637.chunk.js": "/static/js/787.fec03637.chunk.js",
+    "static/media/Biking.gif": "/static/media/Biking.346b5c6c320a83661191.gif",
+    "static/media/MoviewReviewHome.png": "/static/media/MoviewReviewHome.d5677d03731f65b20f1c.png",
+    "static/media/Soccer.gif": "/static/media/Soccer.4b8368e429ae3e8a89ef.gif",
+    "static/media/uwScoop.png": "/static/media/uwScoop.d3cf3db40b0ff7a3dde2.png",
+    "static/media/weeklycourseorganizer.png": "/static/media/weeklycourseorganizer.23ea70bc0fb05355f43a.png",
+    "static/media/TR1.JPG": "/static/media/TR1.6c1db02a0963ef200b21.JPG",
+    "static/media/Soccer2.jpg": "/static/media/Soccer2.2bc38d7cd23ffa99e1da.jpg",
+    "static/media/WaterlooIcon.png": "/static/media/WaterlooIcon.4c8baa431aa9388cdfdf.png",
+    "static/media/Climbing2.jpg": "/static/media/Climbing2.cc61153a7728a841ac38.jpg",
+    "static/media/UWCQ.png": "/static/media/UWCQ.bdf86a3b67eb7506b468.png",
+    "static/media/Banting1.png": "/static/media/Banting1.deb356076e8cefd7711f.png",
+    "static/media/Climbing.jpg": "/static/media/Climbing.670742700226dd6171b2.jpg",
+    "static/media/DecisionSupport.png": "/static/media/DecisionSupport.af1d57debc6f0cfcdd67.png",
+    "static/media/favicon.ico": "/static/media/favicon.83335a1f476e44b2ff45.ico",
+    "static/media/Montreal.jpg": "/static/media/Montreal.211536c19f97994d0349.jpg",
+    "static/media/adelPazokicoloured.jpg": "/static/media/adelPazokicoloured.dd6ce1e529787bd0131e.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/UserManagement.png": "/static/media/UserManagement.5b4d1069ec05b5909970.png",
+    "static/media/TR-logo.png": "/static/media/TR-logo.2d05af94be3fe9cf3131.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/TMMC.png": "/static/media/TMMC.2f16ad36ab89e481ccb8.png",
+    "static/media/Instagram.png": "/static/media/Instagram.2ddfb59982483a684b49.png",
+    "static/media/Tutor.jpg": "/static/media/Tutor.69d5bcbf13414f09db4f.jpg",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/--_W4aPN_400x400.jpg": "/static/media/--_W4aPN_400x400.5235cc748c81b396dd1b.jpg",
+    "index.html": "/index.html",
+    "main.8e687988.css.map": "/static/css/main.8e687988.css.map",
+    "main.ae2e07d7.js.map": "/static/js/main.ae2e07d7.js.map",
+    "787.fec03637.chunk.js.map": "/static/js/787.fec03637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e687988.css",
+    "static/js/main.ae2e07d7.js"
+  ]
+}
