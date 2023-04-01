@@ -36,13 +36,14 @@ function About() {
           <div className="subtext">
             <strong>
               I'm a third year Management Engineering student at the University
-              of Waterloo. For my past Internships I worked as an IS Analyst -
-              Systems Engineering at Toyota Motors Manufacturing Canada and as s
-              Software Developer at Shinydocs and as a Software Solutions
-              Architect at Thomson Reuters. I have a passion for Software
-              Development, Product &amp; Project Management. I am always looking
-              for new opputunities to expand my skills so feel free to reach
-              out.
+              of Waterloo. This summer I will be joining Geotab as a Software
+              Engineer and for my past Internships I worked as a Software
+              Developer - Systems Engineer at Toyota Motors Manufacturing
+              Canada, as a Software Developer at Shinydocs and as a Software
+              Solutions Architect at Thomson Reuters. I have a passion for
+              Software Development, Product &amp; Project Management. I am
+              always looking for new opputunities to expand my skills so feel
+              free to reach out.
             </strong>
 
             <Row className="row-icons">

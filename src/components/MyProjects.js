@@ -9,6 +9,7 @@ import tr from "../images/TR1.JPG";
 import DT from "../images/DecisionSupport.png";
 import UM from "../images/UserManagement.png";
 import MR from "../images/MoviewReviewHome.png";
+import uwScoop from "../images/uwScoop.png";
 
 function Projects() {
   return (
@@ -31,6 +32,28 @@ function Projects() {
                 using <b>Angular</b>, and developed the backend logic and
                 database interactions using
                 <b> .Net6 MVC,</b> and <b>Oracle</b>.{" "}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="grid">
+          <div className="quicktab">
+            <a href="https://youtu.be/HCBylS9ibK8">
+              <Image src={uwScoop} className="img-quicktab"></Image>
+            </a>
+            <div className="overlay-quicktab">
+              <div className="text">
+                <i>
+                  <b>uwScoop</b> 
+                </i>{" "}
+                - is a new rideshare application
+                  exclusive to University of Waterloo Students. Rather than
+                  havingto scroll through rides that dont fit your criteria in a
+                  Facebook group, uwScoop automatically matches you with rides
+                  that fit your criteria. You meet new people along the way too!
+                  uwScoop considers your year, program and music preferences to
+                  make your ride most enjoyable. it was developed using
+                <b> React.js,</b> <b> NodeJs</b> and <b>MySQL</b>.{" "}
               </div>
             </div>
           </div>

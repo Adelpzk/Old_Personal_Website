@@ -14,7 +14,7 @@ class App extends Component {
           <Navigation />
           <Switch>
             <Route path="/" component={Home} exact />
-            <Route component={Error} />
+            <Route  path="/Home" component={Home} exact />
           </Switch>
             <div className="copyright">
               {' '}<br/>
